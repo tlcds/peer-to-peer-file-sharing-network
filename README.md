@@ -1,7 +1,7 @@
 # P2P File Sharing Network Implementation
 In this project, the network implements a protocol modified from the popular P2P protocol, BitTorrent.
 Among the interesting features of BitTorrent protocol, the network uses the choking-unchoking mechanism of BitTorrent to share the file.
-The shared the file would be split into multiple pieces and each piece has the same size defined in the ``` Common.cfg ```
+The shared file would be split into multiple pieces and each piece has the same size defined in the ``` Common.cfg ```
 
 ## Configuration files
 * ```Common.cfg:``` </br>
